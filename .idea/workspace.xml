@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1d3b433-fae2-4a5e-8411-a1e9ea3c3ddd" name="Default Changelist" comment="" />
+    <list default="true" id="e1d3b433-fae2-4a5e-8411-a1e9ea3c3ddd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/debug/com/qualcomm/ftcrobotcontroller/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/debug/com/qualcomm/ftcrobotcontroller/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/drive/Comp/Autonomous/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/drive/Comp/Autonomous/Auto.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,22 +157,22 @@
       <screen x="0" y="25" width="1440" height="753" />
     </state>
     <state x="326" y="25" key="CommitChangelistDialog2/0.25.1440.753@0.25.1440.753" timestamp="1622939758720" />
-    <state width="1398" height="187" key="GridCell.Tab.0.bottom" timestamp="1622933533364">
+    <state width="1398" height="187" key="GridCell.Tab.0.bottom" timestamp="1622943066537">
       <screen x="0" y="25" width="1440" height="753" />
     </state>
-    <state width="1398" height="187" key="GridCell.Tab.0.bottom/0.25.1440.753@0.25.1440.753" timestamp="1622933533364" />
-    <state width="1398" height="187" key="GridCell.Tab.0.center" timestamp="1622933533363">
+    <state width="1398" height="187" key="GridCell.Tab.0.bottom/0.25.1440.753@0.25.1440.753" timestamp="1622943066537" />
+    <state width="1398" height="187" key="GridCell.Tab.0.center" timestamp="1622943066536">
       <screen x="0" y="25" width="1440" height="753" />
     </state>
-    <state width="1398" height="187" key="GridCell.Tab.0.center/0.25.1440.753@0.25.1440.753" timestamp="1622933533363" />
-    <state width="1398" height="187" key="GridCell.Tab.0.left" timestamp="1622933533362">
+    <state width="1398" height="187" key="GridCell.Tab.0.center/0.25.1440.753@0.25.1440.753" timestamp="1622943066536" />
+    <state width="1398" height="187" key="GridCell.Tab.0.left" timestamp="1622943066536">
       <screen x="0" y="25" width="1440" height="753" />
     </state>
-    <state width="1398" height="187" key="GridCell.Tab.0.left/0.25.1440.753@0.25.1440.753" timestamp="1622933533362" />
-    <state width="1398" height="187" key="GridCell.Tab.0.right" timestamp="1622933533364">
+    <state width="1398" height="187" key="GridCell.Tab.0.left/0.25.1440.753@0.25.1440.753" timestamp="1622943066536" />
+    <state width="1398" height="187" key="GridCell.Tab.0.right" timestamp="1622943066537">
       <screen x="0" y="25" width="1440" height="753" />
     </state>
-    <state width="1398" height="187" key="GridCell.Tab.0.right/0.25.1440.753@0.25.1440.753" timestamp="1622933533364" />
+    <state width="1398" height="187" key="GridCell.Tab.0.right/0.25.1440.753@0.25.1440.753" timestamp="1622943066537" />
     <state x="500" y="183" key="chooseDestDirectoryDialog" timestamp="1621719830411">
       <screen x="0" y="25" width="1440" height="753" />
     </state>
