@@ -61,8 +61,8 @@ public class Auto extends LinearOpMode {
         while (opModeIsActive()) {
             armUpDown(1, 1750);
             sleep(500);
-            moveIn("y", -.6, 2);
-            moveIn("x", .6, 83);
+            moveIn("y", -.6, 2); // Sideways
+            moveIn("x", .6, 83); // Forward
             sleep(500);
             moveIn("x", -.7, 20);
             sleep(500);
