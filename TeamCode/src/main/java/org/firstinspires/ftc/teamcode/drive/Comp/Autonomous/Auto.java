@@ -72,10 +72,10 @@ public class Auto extends LinearOpMode {
             shootRing(10000);
             shootRing(10000);
             shootRing(10000);
-            moveIn("y", .4, 48);
+            moveIn("y", .4, 45);
             turn(4, -.5);
-            moveIn("x", -.7, 71);
-            moveIn("y", -.4, 9.5);
+            moveIn("x", -.7, 69);
+            moveIn("y", -.4, 7);
             turn(32, -.5);
             moveIn("x", .7, 82);
 //            moveIn("x", -.7, 4);

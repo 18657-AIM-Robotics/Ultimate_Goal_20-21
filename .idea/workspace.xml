@@ -1,9 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e1d3b433-fae2-4a5e-8411-a1e9ea3c3ddd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/TeamCode/TeamCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/TeamCode/TeamCode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/.transforms/d588e2f73322366b5485c62d03c57d17/classes/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/FtcRobotController/build/.transforms/d588e2f73322366b5485c62d03c57d17/classes/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/debug/com/qualcomm/ftcrobotcontroller/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/debug/com/qualcomm/ftcrobotcontroller/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/compile_library_classes_jar/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/compile_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/javac/debug/classes/com/qualcomm/ftcrobotcontroller/BuildConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/javac/debug/classes/com/qualcomm/ftcrobotcontroller/BuildConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/javac/debug/classes/org/firstinspires/ftc/robotcontroller/internal/FtcRobotControllerActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/javac/debug/classes/org/firstinspires/ftc/robotcontroller/internal/FtcRobotControllerActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/runtime_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex" beforeDir="false" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/javac/debug/classes/org/firstinspires/ftc/teamcode/drive/Comp/Autonomous/Auto.class" beforeDir="false" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/javac/debug/classes/org/firstinspires/ftc/teamcode/drive/Comp/Autonomous/Auto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/project_dex_archive/debug/out/org/firstinspires/ftc/teamcode/drive/Comp/Autonomous/Auto.dex" beforeDir="false" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/project_dex_archive/debug/out/org/firstinspires/ftc/teamcode/drive/Comp/Autonomous/Auto.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/build/outputs/apk/debug/TeamCode-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/TeamCode/build/outputs/apk/debug/TeamCode-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/drive/Comp/Autonomous/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/drive/Comp/Autonomous/Auto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +36,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="192.168.43.1:5555" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -33,6 +57,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/nateschmelkin/AIM-ROBOTICS-ULTIMATEGOAL.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1sUyfxD5qNVLwgeYbLP2p7t9BWj" />
   <component name="ProjectViewState">
@@ -122,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622939759168</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modified Auto Code to nail top goal.">
+      <created>1622943758804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622943758804</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,7 +168,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -138,9 +178,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HI" />
-    <option name="LAST_COMMIT_MESSAGE" value="HI" />
+    <MESSAGE value="Modified Auto Code to nail top goal." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified Auto Code to nail top goal." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="408" y="208" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622987639025">
+      <screen x="0" y="25" width="1440" height="753" />
+    </state>
+    <state x="408" y="208" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.753/-1920.-275.1920.1175@0.25.1440.753" timestamp="1622987639025" />
     <state x="-1225" y="17" key="#com.intellij.ide.util.MemberChooser" timestamp="1622261478097">
       <screen x="-1920" y="-275" width="1920" height="1175" />
     </state>
@@ -153,26 +198,30 @@
       <screen x="0" y="25" width="1440" height="753" />
     </state>
     <state x="308" y="160" key="AndroidCreateResourceDirectoryDialog/0.25.1440.753@0.25.1440.753" timestamp="1620945733423" />
-    <state x="326" y="25" key="CommitChangelistDialog2" timestamp="1622939758720">
+    <state x="326" y="25" key="CommitChangelistDialog2" timestamp="1622996291447">
       <screen x="0" y="25" width="1440" height="753" />
     </state>
-    <state x="326" y="25" key="CommitChangelistDialog2/0.25.1440.753@0.25.1440.753" timestamp="1622939758720" />
-    <state width="1398" height="187" key="GridCell.Tab.0.bottom" timestamp="1622943066537">
+    <state x="326" y="25" key="CommitChangelistDialog2/0.25.1440.753@0.25.1440.753" timestamp="1622996291447" />
+    <state width="1398" height="145" key="GridCell.Tab.0.bottom" timestamp="1622996261814">
       <screen x="0" y="25" width="1440" height="753" />
     </state>
-    <state width="1398" height="187" key="GridCell.Tab.0.bottom/0.25.1440.753@0.25.1440.753" timestamp="1622943066537" />
-    <state width="1398" height="187" key="GridCell.Tab.0.center" timestamp="1622943066536">
+    <state width="1398" height="145" key="GridCell.Tab.0.bottom/0.25.1440.753/-1920.-275.1920.1175@0.25.1440.753" timestamp="1622987721454" />
+    <state width="1398" height="145" key="GridCell.Tab.0.bottom/0.25.1440.753@0.25.1440.753" timestamp="1622996261814" />
+    <state width="1398" height="145" key="GridCell.Tab.0.center" timestamp="1622996261813">
       <screen x="0" y="25" width="1440" height="753" />
     </state>
-    <state width="1398" height="187" key="GridCell.Tab.0.center/0.25.1440.753@0.25.1440.753" timestamp="1622943066536" />
-    <state width="1398" height="187" key="GridCell.Tab.0.left" timestamp="1622943066536">
+    <state width="1398" height="145" key="GridCell.Tab.0.center/0.25.1440.753/-1920.-275.1920.1175@0.25.1440.753" timestamp="1622987721453" />
+    <state width="1398" height="145" key="GridCell.Tab.0.center/0.25.1440.753@0.25.1440.753" timestamp="1622996261813" />
+    <state width="1398" height="145" key="GridCell.Tab.0.left" timestamp="1622996261813">
       <screen x="0" y="25" width="1440" height="753" />
     </state>
-    <state width="1398" height="187" key="GridCell.Tab.0.left/0.25.1440.753@0.25.1440.753" timestamp="1622943066536" />
-    <state width="1398" height="187" key="GridCell.Tab.0.right" timestamp="1622943066537">
+    <state width="1398" height="145" key="GridCell.Tab.0.left/0.25.1440.753/-1920.-275.1920.1175@0.25.1440.753" timestamp="1622987721453" />
+    <state width="1398" height="145" key="GridCell.Tab.0.left/0.25.1440.753@0.25.1440.753" timestamp="1622996261813" />
+    <state width="1398" height="145" key="GridCell.Tab.0.right" timestamp="1622996261813">
       <screen x="0" y="25" width="1440" height="753" />
     </state>
-    <state width="1398" height="187" key="GridCell.Tab.0.right/0.25.1440.753@0.25.1440.753" timestamp="1622943066537" />
+    <state width="1398" height="145" key="GridCell.Tab.0.right/0.25.1440.753/-1920.-275.1920.1175@0.25.1440.753" timestamp="1622987721454" />
+    <state width="1398" height="145" key="GridCell.Tab.0.right/0.25.1440.753@0.25.1440.753" timestamp="1622996261813" />
     <state x="500" y="183" key="chooseDestDirectoryDialog" timestamp="1621719830411">
       <screen x="0" y="25" width="1440" height="753" />
     </state>
