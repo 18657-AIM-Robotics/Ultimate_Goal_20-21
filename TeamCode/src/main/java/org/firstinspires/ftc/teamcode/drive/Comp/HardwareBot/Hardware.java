@@ -40,7 +40,8 @@ public class Hardware {
     public CRServo leftArm = null;
     public CRServo rightArm = null;
     public CRServo hand = null;
-    public Servo intakepush = null;
+    public Servo intakepushright = null;
+    public Servo intakepushleft = null;
     public CRServo  angle = null;
 
 
@@ -83,7 +84,8 @@ public class Hardware {
         leftArm = hwMap.get(CRServo.class, "left_arm");
         rightArm = hwMap.get(CRServo.class, "right_arm");
         hand = hwMap.get(CRServo.class, "hand");
-        intakepush = hwMap.get(Servo.class, "intake_push");
+        intakepushright = hwMap.get(Servo.class, "intake_push_right");
+        intakepushleft = hwMap.get(Servo.class, "intake_push_left");
         angle = hwMap.get(CRServo.class, "angle");
 
 

@@ -147,9 +147,11 @@ public class NotATeleOp extends OpMode {
             } else if (gamepad2.left_trigger > 0) {
                 robot.flywheel.setPower(2800);
             } else if (gamepad1.a) {
-                robot.intakepush.setPosition(0);
+                robot.intakepushright.setPosition(0);
+                robot.intakepushleft.setPosition(0);
             } else if (gamepad1.y) {
-                robot.intakepush.setPosition(1);
+                robot.intakepushright.setPosition(1);
+                robot.intakepushleft.setPosition(1);
             } else {
                 robot.leftArm.setPower(0);
                 robot.rightArm.setPower(0);

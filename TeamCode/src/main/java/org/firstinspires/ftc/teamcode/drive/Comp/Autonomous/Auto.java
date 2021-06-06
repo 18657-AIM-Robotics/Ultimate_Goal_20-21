@@ -61,8 +61,8 @@ public class Auto extends LinearOpMode {
         while (opModeIsActive()) {
             armUpDown(1, 1750);
             sleep(500);
-            moveIn("y", -.6, 2);
-            moveIn("x", .6, 83);
+            moveIn("y", -.6, 2); // Sideways
+            moveIn("x", .6, 83); // Forward
             sleep(500);
             moveIn("x", -.7, 20);
             sleep(500);
@@ -80,7 +80,8 @@ public class Auto extends LinearOpMode {
             moveIn("x", .7, 82);
 //            moveIn("x", -.7, 4);
             moveIn("y", .8, 16);
-            robot.intakepush.setPosition(0);
+            robot.intakepushright.setPosition(0);
+            robot.intakepushleft.setPosition(0);
             sleep(1000);
             break;
         }
