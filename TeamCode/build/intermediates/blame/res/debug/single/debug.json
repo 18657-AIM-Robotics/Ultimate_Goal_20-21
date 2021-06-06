@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/nateschmelkin/Projects/road-runner-quickstart/TeamCode/build/intermediates/res/merged/debug/xml_teamwebcamcalibrations.xml.flat",
+        "source": "/Users/nateschmelkin/Projects/road-runner-quickstart/TeamCode/src/main/res/xml/teamwebcamcalibrations.xml"
+    },
+    {
+        "merged": "/Users/nateschmelkin/Projects/road-runner-quickstart/TeamCode/build/intermediates/res/merged/debug/raw_readme.md.flat",
+        "source": "/Users/nateschmelkin/Projects/road-runner-quickstart/TeamCode/src/main/res/raw/readme.md"
+    }
+]
